@@ -40,7 +40,8 @@
 -Phân biệt
 <img width="801" height="261" alt="image" src="https://github.com/user-attachments/assets/2c8af0e4-284a-4d18-9f89-fce7a7a669af" />
 6. Đọc token trên Etherscan
-
+## 3. Work completed
+Không có
 ## 4. Evidence
 Không có
 ## 5. Blockers
